@@ -37,6 +37,12 @@ Step 5: Install Phpmyadmin(for database)
 ----
 sudo apt-get install phpmyadmin<br><br>
 
+Installing on Ubuntu 18.04.4 Server<br>
+------
+
+sudo apt install apache2 apache2-doc apache2-utils libexpat1 ssl-cert<br><br>
+
+sudo apt-get install libapache2-mod-php7.2 php7.2 php7.2-common php7.2-curl php7.2-dev php7.2-gd php-pear php-imagick libmcrypt-dev php7.2-mysql php-ps php7.2-xsl
 ```
 
 ### Installing
@@ -55,5 +61,8 @@ SVXreflector server.
 
 
 ## License
+
+
+
 
 
